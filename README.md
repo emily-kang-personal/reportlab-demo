@@ -4,7 +4,7 @@ Spike: print-ready 11x17" (tabloid) poster layout generated entirely in Python
 with ReportLab. Vector-only output intended for physical printing on parchment,
 so all box interiors are transparent — strokes only, no fills.
 
-![sample](out/sample_poster.pdf)
+Sample output: [`out/sample_poster.pdf`](out/sample_poster.pdf)
 
 ## What it exercises
 
